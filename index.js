@@ -1,6 +1,7 @@
 const express = require("express");
 const programs = require("./data/programs.json");
 
+// calling express app
 const app = express();
 
 app.get("/", (req, res) => {
