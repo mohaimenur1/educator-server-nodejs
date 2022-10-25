@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const programs = require("./data/programs.json");
+const programsData = require("./data/programs.json");
 
 // calling express app
 const app = express();
@@ -13,8 +13,19 @@ app.get("/", (req, res) => {
 });
 
 app.get("/programs", (req, res) => {
-  res.send(programs);
+  res.send(programsData);
 });
+
+app.get("/programs/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const programD = programsData.find((predicate) => predicate.id === id);
+
+  res.send(programD);
+  console.log(programD);
+});
+
+// console.log(programDetails);
 
 const port = 5000;
 

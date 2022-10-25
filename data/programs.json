@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "pragram_name": "Cse Fundamentals",
     "image": "https://kmit.in/images/logos/cse.jpg",
     "topic": "19",
@@ -9,7 +9,7 @@
     "description": "This is a Cse Fundamental course , which we provide a good understanding what is cse and how the entire curriculum goes. Also we take some practise exercise for better outcome.",
     "curriculum": [
       "CSE 173 Discrete Mathematics-3",
-      " CSE 215 Programming Language II-3",
+      "CSE 215 Programming Language II-3",
       "CSE 215L Programming Language II Lab-1",
       "CSE 225 Data Structures  and Algorithm-3",
       "CSE 225L Data Structures  and Algorithm Lab-0",
@@ -32,7 +32,7 @@
     "vision": "to deliver thorough instruction and carry out research in a variety of scientific, engineering, technology, and engineering management fields. to pursue research and collaborative projects with local, national, and worldwide populations to maintain a dialogue between academia and business."
   },
   {
-    "id": 2,
+    "id": "2",
     "pragram_name": "BBa Fundamentals",
     "image": "https://blog.tuf.edu.pk/wp-content/uploads/2021/09/Bachelor-Of-Business-Administration.jpg",
     "topic": "15",
@@ -59,7 +59,7 @@
     "vision": "The BBA Unit continuously works to elevate its position in the field of management studies in order to produce business graduates who will go on to become future business leaders, entrepreneurs, and socially conscious professionals who can fit in with the fast-paced corporate world and have a global perspective."
   },
   {
-    "id": 3,
+    "id": "3",
     "pragram_name": "Architecture Fundamentals",
     "image": "https://blog.ipleaders.in/wp-content/uploads/2021/06/Arch2O-architectural-sketching-10-architecture-sketching-tips-1.jpg",
     "topic": "13",
@@ -84,7 +84,7 @@
     "vision": "It strives to offer top-notch knowledge to the national and worldwide communities in order to enrich multidisciplinary education while also meeting local and global needs."
   },
   {
-    "id": 4,
+    "id": "4",
     "pragram_name": "Civil Fundamentals",
     "image": "https://img.freepik.com/premium-photo/innovative-architecture-civil-engineering-plan_31965-5441.jpg",
     "topic": "10",
@@ -108,7 +108,7 @@
     "vision": "to educate our students with the best knowledge possible in the fields of technology and civil engineering from a global viewpoint and to develop in them the morally upright engineers who will construct our country. to create highly qualified, technically proficient, and morally upright civil engineers who will serve society and the country."
   },
   {
-    "id": 5,
+    "id": "5",
     "pragram_name": "BPharm Professional Fundamentals",
     "image": "https://lloydpharmacy.edu.in/images/LBS/Pharmecy/images/blogs/b-pharm-syllabus.jpg",
     "topic": "8",
@@ -133,7 +133,7 @@
     "vision": "To impart scientific knowledge for the identification, formulations, preparation, standardization, quality control, and uses of drugs and medicines and effective management of their distribution and sale.To produce skilled manpower to manage the affairs of hospital pharmacies, pharmaceutical industries, community pharmacy services, drug administration, and other organizations in drug research, marketing, sales, and administration"
   },
   {
-    "id": 6,
+    "id": "6",
     "pragram_name": "Math Fundamentals",
     "image": "https://www.eustoncollege.co.uk/wp-content/uploads/2020/02/Functional-Maths-Training-Course-scaled.jpg",
     "topic": "11",
