@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "pragram_name": "Cse Fundamentals",
+    "pragram_name": "Cse Pro",
     "image": "https://kmit.in/images/logos/cse.jpg",
     "topic": "19",
     "student": "1258",
@@ -33,7 +33,7 @@
   },
   {
     "id": "2",
-    "pragram_name": "BBa Fundamentals",
+    "pragram_name": "BBa Scratch",
     "image": "https://blog.tuf.edu.pk/wp-content/uploads/2021/09/Bachelor-Of-Business-Administration.jpg",
     "topic": "15",
     "student": "550",
@@ -85,7 +85,7 @@
   },
   {
     "id": "4",
-    "pragram_name": "Civil Fundamentals",
+    "pragram_name": "Civil Expert",
     "image": "https://img.freepik.com/premium-photo/innovative-architecture-civil-engineering-plan_31965-5441.jpg",
     "topic": "10",
     "student": "300",
@@ -109,7 +109,7 @@
   },
   {
     "id": "5",
-    "pragram_name": "BPharm Professional Fundamentals",
+    "pragram_name": "BPharm Professional",
     "image": "https://lloydpharmacy.edu.in/images/LBS/Pharmecy/images/blogs/b-pharm-syllabus.jpg",
     "topic": "8",
     "student": "600",
@@ -134,7 +134,7 @@
   },
   {
     "id": "6",
-    "pragram_name": "Math Fundamentals",
+    "pragram_name": "Math Zero To Hero",
     "image": "https://www.eustoncollege.co.uk/wp-content/uploads/2020/02/Functional-Maths-Training-Course-scaled.jpg",
     "topic": "11",
     "student": "1000",
